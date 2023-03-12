@@ -3,6 +3,8 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/e69e8fa630b683273699d3b70988d421/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/e69e8fa630b683273699d3b70988d421/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/9386171ae8ecafe6bd69b81c1895ede8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-15.0.1.aar/9386171ae8ecafe6bd69b81c1895ede8/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

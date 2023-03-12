@@ -3,6 +3,8 @@
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/fae406e8b5a96ccf407e504c2b21eef4/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/fae406e8b5a96ccf407e504c2b21eef4/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f6631a81ff776c5b976a5a7f9b3e7f06/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f6631a81ff776c5b976a5a7f9b3e7f06/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -1,0 +1,586 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:2:1-53:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8e7232cb94820ec45e162ebd98f5b1ac\AndroidManifest.xml:17:1-24:12
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\library-2.1.4.aar\5e83265567a64182da9b491967e2c4c0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a842fb75f30a6a18889a188c30546531\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\597cf88cea76b2b87acc76cd1cfcb54b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\d27467ab39bfebf81619951b66c31d50\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\4bca34d10f11149826dcc5e908425d09\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.1.aar\de76676e45c57b90e4a5c9cba02e98c2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-ml-vision:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-16.0.0.aar\3687e6ee50bd4b258578e4418e4c014d\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-messaging:17.3.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.1.aar\7e71f1434a281e08c8d72b3cb471f56d\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\66749caba98db5dfc215d7a28594c7cf\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-vision-image-label-15.0.0.aar\905f7b0caf9d6ccef30f4319e6df929b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\ecdb7231c84255801c08d456348712e4\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\8ddad63d280d4a8671ec9df0661356bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\f5e9e031d570df287864d4984f14fdb2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-ml-common:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-ml-common-16.0.0.aar\072cc469fc754cd9975c871c54b540b7\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\9386171ae8ecafe6bd69b81c1895ede8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\65052e697d712a66644f6f1bc26e3a22\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\309836a72bee5fdb664045e07fcbb5ad\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\4da3097101b6b65d6d1d121fea5eb6fc\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\6f92ee0466de6680734a168d74c1f62c\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\082d5f6b203ea677dd34a277d7bc490e\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\37a2592bd334d0a16bbe4bdd6b297ec1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\48c46c1a54edc4e6c47899db53b7885c\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\06bffa6ffb9d66180c4c7b6b121ebd1e\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\76debd1106b39ef82f70df60cb38a041\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\f8ae68ada5f2faedc1f4ec3c4cf2d91f\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-16.0.1.aar\d2b9656fe5f1befb5a6adf7efa829ca3\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\a90ff867e3bde40fe9a194ab5472712c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\89606833ebca2ce51a516736dc07e9a2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\dd396fbe0919909905eca1ac2d472306\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\cc70b370db32acae6d200ab35382aa2e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\21f34f2a1e452ba70e19acb59189fc81\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\e2801c4d5de603d327350a70e4cf7032\AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\4ac3696abad9de74ae9b3e0eac4d352d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\99406e7fd15476a5f83891c46c5cd125\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a85441eb702349e266a671c26af85a66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\534a482af5d8de244e2832a4b11de7ac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\68e6a28e5f6e169312ff7ee482ed0cb9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\27889954a84402c73bae72f7866c9b1b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0a94c5e30043a1c0fd69710f1e7a41f2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\868f08cbb48722a068bcef4c8a0ffbf0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\31dba4f3db44fafc15e68f277c898383\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\d44e10b2905d0948d5308d4f9faa5bb6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\de9099b26df14eb81d4ba8f804fb545c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\1006f5a7ba3efc53adc6ef9fbf626f2d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\cb74d13c1d2eac7e2b6bb78ba52d62e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b90cf8ca9fdf4561bbe6f804553b7911\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f6631a81ff776c5b976a5a7f9b3e7f06\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\54f9c3030bfd5761386cb59243328fac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b06077d85860bb35448be2a67bd31a09\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\778eff60b361dfff7430fe52517232d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b450db3599e0e6d0cbb1e9b34bd39104\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8a0babb75aa92db4909fd0839f6f8c22\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\86631d0d7b8e892547f6943ff083acd6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\e4cef45e10b701ec3fb35e1fe4fc8723\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\527020a56202ec558f47a0522f70ea75\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ccb90787ea62fa730d6c241a8387deea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\30aa8e8a2980909b8aa2f4f5c026e27a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4ce37f4315b92061a8744a206caf7566\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\2428ae941cd8a6bce58118b97cd95aa7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\100c1e849a04f734bc8c66cfe3295180\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b5a11b16b4305cd2b0555a4e0b22448b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\36bf2e8aaffb357a1d006e9c51a117b5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5f0ae5eb2ce4289641cf1c899b9e0e82\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\770005017a782fda915ee551adea6fad\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml
+		INJECTED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\4da3097101b6b65d6d1d121fea5eb6fc\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\4da3097101b6b65d6d1d121fea5eb6fc\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\6f92ee0466de6680734a168d74c1f62c\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\6f92ee0466de6680734a168d74c1f62c\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\48c46c1a54edc4e6c47899db53b7885c\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\48c46c1a54edc4e6c47899db53b7885c\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-16.0.1.aar\d2b9656fe5f1befb5a6adf7efa829ca3\AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-16.0.1.aar\d2b9656fe5f1befb5a6adf7efa829ca3\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:5:5-72
+	android:name
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:5:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:6:5-73
+	android:name
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:6:22-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.CAMERA
+ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:10:5-60
+	android:name
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:10:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:11:5-70
+	android:name
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:11:19-67
+application
+ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:13:5-51:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8e7232cb94820ec45e162ebd98f5b1ac\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8e7232cb94820ec45e162ebd98f5b1ac\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\597cf88cea76b2b87acc76cd1cfcb54b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\597cf88cea76b2b87acc76cd1cfcb54b\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\d27467ab39bfebf81619951b66c31d50\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\d27467ab39bfebf81619951b66c31d50\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.1.aar\7e71f1434a281e08c8d72b3cb471f56d\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.1.aar\7e71f1434a281e08c8d72b3cb471f56d\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\66749caba98db5dfc215d7a28594c7cf\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\66749caba98db5dfc215d7a28594c7cf\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-vision-image-label-15.0.0.aar\905f7b0caf9d6ccef30f4319e6df929b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-vision-image-label-15.0.0.aar\905f7b0caf9d6ccef30f4319e6df929b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\ecdb7231c84255801c08d456348712e4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\ecdb7231c84255801c08d456348712e4\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\f5e9e031d570df287864d4984f14fdb2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\f5e9e031d570df287864d4984f14fdb2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\9386171ae8ecafe6bd69b81c1895ede8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\9386171ae8ecafe6bd69b81c1895ede8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\65052e697d712a66644f6f1bc26e3a22\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\65052e697d712a66644f6f1bc26e3a22\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\309836a72bee5fdb664045e07fcbb5ad\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\309836a72bee5fdb664045e07fcbb5ad\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\4da3097101b6b65d6d1d121fea5eb6fc\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\4da3097101b6b65d6d1d121fea5eb6fc\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\6f92ee0466de6680734a168d74c1f62c\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\6f92ee0466de6680734a168d74c1f62c\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\082d5f6b203ea677dd34a277d7bc490e\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\082d5f6b203ea677dd34a277d7bc490e\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\37a2592bd334d0a16bbe4bdd6b297ec1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\37a2592bd334d0a16bbe4bdd6b297ec1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\06bffa6ffb9d66180c4c7b6b121ebd1e\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\06bffa6ffb9d66180c4c7b6b121ebd1e\AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\76debd1106b39ef82f70df60cb38a041\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\76debd1106b39ef82f70df60cb38a041\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\a90ff867e3bde40fe9a194ab5472712c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\a90ff867e3bde40fe9a194ab5472712c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\89606833ebca2ce51a516736dc07e9a2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\89606833ebca2ce51a516736dc07e9a2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\dd396fbe0919909905eca1ac2d472306\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\dd396fbe0919909905eca1ac2d472306\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\cc70b370db32acae6d200ab35382aa2e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\cc70b370db32acae6d200ab35382aa2e\AndroidManifest.xml:22:5-26:19
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\4ac3696abad9de74ae9b3e0eac4d352d\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\4ac3696abad9de74ae9b3e0eac4d352d\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\99406e7fd15476a5f83891c46c5cd125\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\99406e7fd15476a5f83891c46c5cd125\AndroidManifest.xml:10:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b450db3599e0e6d0cbb1e9b34bd39104\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b450db3599e0e6d0cbb1e9b34bd39104\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8a0babb75aa92db4909fd0839f6f8c22\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8a0babb75aa92db4909fd0839f6f8c22\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\e4cef45e10b701ec3fb35e1fe4fc8723\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\e4cef45e10b701ec3fb35e1fe4fc8723\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\770005017a782fda915ee551adea6fad\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\770005017a782fda915ee551adea6fad\AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b450db3599e0e6d0cbb1e9b34bd39104\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:15:9-37
+	android:allowBackup
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.example.mohaiminur.com.textchat.StartActivity
+ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:20:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.example.mohaiminur.com.textchat.MainActivity
+ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:27:19-47
+activity#com.example.mohaiminur.com.textchat.LoginActivity
+ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:28:9-30:59
+	android:parentActivityName
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:29:13-42
+activity#com.example.mohaiminur.com.textchat.MessageActivity
+ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:31:9-53
+	android:name
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:31:19-50
+service#com.example.mohaiminur.com.textchat.Notifications.MyFirebaseIdService
+ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:33:9-39:19
+	android:enabled
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:34:13-35
+	android:exported
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:33:18-67
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:36:13-38:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:37:17-79
+	android:name
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:37:25-77
+service#com.example.mohaiminur.com.textchat.Notifications.MyFirebaseMessaging
+ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:41:9-47:19
+	android:enabled
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:43:13-36
+	android:name
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:41:18-67
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:44:13-46:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:45:17-77
+	android:name
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:45:25-75
+meta-data#com.google.firebase.ml.vision.DEPENDENCIES
+ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:48:9-50:35
+	android:value
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:50:13-32
+	android:name
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml:49:13-70
+uses-sdk
+INJECTED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml
+INJECTED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8e7232cb94820ec45e162ebd98f5b1ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\8e7232cb94820ec45e162ebd98f5b1ac\AndroidManifest.xml:20:5-44
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\library-2.1.4.aar\5e83265567a64182da9b491967e2c4c0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\library-2.1.4.aar\5e83265567a64182da9b491967e2c4c0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a842fb75f30a6a18889a188c30546531\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\a842fb75f30a6a18889a188c30546531\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\597cf88cea76b2b87acc76cd1cfcb54b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\597cf88cea76b2b87acc76cd1cfcb54b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\d27467ab39bfebf81619951b66c31d50\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\d27467ab39bfebf81619951b66c31d50\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\4bca34d10f11149826dcc5e908425d09\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-database-16.0.1.aar\4bca34d10f11149826dcc5e908425d09\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.1.aar\de76676e45c57b90e4a5c9cba02e98c2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-storage-16.0.1.aar\de76676e45c57b90e4a5c9cba02e98c2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-vision:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-16.0.0.aar\3687e6ee50bd4b258578e4418e4c014d\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-vision:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-ml-vision-16.0.0.aar\3687e6ee50bd4b258578e4418e4c014d\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.1.aar\7e71f1434a281e08c8d72b3cb471f56d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.1.aar\7e71f1434a281e08c8d72b3cb471f56d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\66749caba98db5dfc215d7a28594c7cf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:15.0.2] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-vision-15.0.2.aar\66749caba98db5dfc215d7a28594c7cf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-vision-image-label-15.0.0.aar\905f7b0caf9d6ccef30f4319e6df929b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:15.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-vision-image-label-15.0.0.aar\905f7b0caf9d6ccef30f4319e6df929b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\ecdb7231c84255801c08d456348712e4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:15.0.2] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-15.0.2.aar\ecdb7231c84255801c08d456348712e4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\8ddad63d280d4a8671ec9df0661356bf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\8ddad63d280d4a8671ec9df0661356bf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\f5e9e031d570df287864d4984f14fdb2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\f5e9e031d570df287864d4984f14fdb2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-common:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-ml-common-16.0.0.aar\072cc469fc754cd9975c871c54b540b7\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-common:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-ml-common-16.0.0.aar\072cc469fc754cd9975c871c54b540b7\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\9386171ae8ecafe6bd69b81c1895ede8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-15.0.1.aar\9386171ae8ecafe6bd69b81c1895ede8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\65052e697d712a66644f6f1bc26e3a22\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-phenotype-15.0.1.aar\65052e697d712a66644f6f1bc26e3a22\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\309836a72bee5fdb664045e07fcbb5ad\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\309836a72bee5fdb664045e07fcbb5ad\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\4da3097101b6b65d6d1d121fea5eb6fc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\4da3097101b6b65d6d1d121fea5eb6fc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\6f92ee0466de6680734a168d74c1f62c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\6f92ee0466de6680734a168d74c1f62c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\082d5f6b203ea677dd34a277d7bc490e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\082d5f6b203ea677dd34a277d7bc490e\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\37a2592bd334d0a16bbe4bdd6b297ec1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\37a2592bd334d0a16bbe4bdd6b297ec1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\48c46c1a54edc4e6c47899db53b7885c\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-16.0.1.aar\48c46c1a54edc4e6c47899db53b7885c\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\06bffa6ffb9d66180c4c7b6b121ebd1e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\06bffa6ffb9d66180c4c7b6b121ebd1e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\76debd1106b39ef82f70df60cb38a041\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\76debd1106b39ef82f70df60cb38a041\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\f8ae68ada5f2faedc1f4ec3c4cf2d91f\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\f8ae68ada5f2faedc1f4ec3c4cf2d91f\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-16.0.1.aar\d2b9656fe5f1befb5a6adf7efa829ca3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-16.0.1.aar\d2b9656fe5f1befb5a6adf7efa829ca3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\a90ff867e3bde40fe9a194ab5472712c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\a90ff867e3bde40fe9a194ab5472712c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\89606833ebca2ce51a516736dc07e9a2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\89606833ebca2ce51a516736dc07e9a2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\dd396fbe0919909905eca1ac2d472306\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\dd396fbe0919909905eca1ac2d472306\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\cc70b370db32acae6d200ab35382aa2e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\cc70b370db32acae6d200ab35382aa2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\21f34f2a1e452ba70e19acb59189fc81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\21f34f2a1e452ba70e19acb59189fc81\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\e2801c4d5de603d327350a70e4cf7032\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\e2801c4d5de603d327350a70e4cf7032\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\4ac3696abad9de74ae9b3e0eac4d352d\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\circleimageview-2.2.0.aar\4ac3696abad9de74ae9b3e0eac4d352d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\99406e7fd15476a5f83891c46c5cd125\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\glide-4.8.0.aar\99406e7fd15476a5f83891c46c5cd125\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a85441eb702349e266a671c26af85a66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\a85441eb702349e266a671c26af85a66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\534a482af5d8de244e2832a4b11de7ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\534a482af5d8de244e2832a4b11de7ac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\68e6a28e5f6e169312ff7ee482ed0cb9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\68e6a28e5f6e169312ff7ee482ed0cb9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\27889954a84402c73bae72f7866c9b1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\27889954a84402c73bae72f7866c9b1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0a94c5e30043a1c0fd69710f1e7a41f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0a94c5e30043a1c0fd69710f1e7a41f2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\868f08cbb48722a068bcef4c8a0ffbf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\868f08cbb48722a068bcef4c8a0ffbf0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\31dba4f3db44fafc15e68f277c898383\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\31dba4f3db44fafc15e68f277c898383\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\d44e10b2905d0948d5308d4f9faa5bb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\transition-28.0.0.aar\d44e10b2905d0948d5308d4f9faa5bb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\de9099b26df14eb81d4ba8f804fb545c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\de9099b26df14eb81d4ba8f804fb545c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\1006f5a7ba3efc53adc6ef9fbf626f2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\1006f5a7ba3efc53adc6ef9fbf626f2d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\cb74d13c1d2eac7e2b6bb78ba52d62e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\cb74d13c1d2eac7e2b6bb78ba52d62e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b90cf8ca9fdf4561bbe6f804553b7911\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\b90cf8ca9fdf4561bbe6f804553b7911\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f6631a81ff776c5b976a5a7f9b3e7f06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f6631a81ff776c5b976a5a7f9b3e7f06\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\54f9c3030bfd5761386cb59243328fac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\54f9c3030bfd5761386cb59243328fac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b06077d85860bb35448be2a67bd31a09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\b06077d85860bb35448be2a67bd31a09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\778eff60b361dfff7430fe52517232d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\778eff60b361dfff7430fe52517232d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b450db3599e0e6d0cbb1e9b34bd39104\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b450db3599e0e6d0cbb1e9b34bd39104\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8a0babb75aa92db4909fd0839f6f8c22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8a0babb75aa92db4909fd0839f6f8c22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\86631d0d7b8e892547f6943ff083acd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\86631d0d7b8e892547f6943ff083acd6\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\e4cef45e10b701ec3fb35e1fe4fc8723\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.8.0.aar\e4cef45e10b701ec3fb35e1fe4fc8723\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\527020a56202ec558f47a0522f70ea75\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\527020a56202ec558f47a0522f70ea75\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ccb90787ea62fa730d6c241a8387deea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\ccb90787ea62fa730d6c241a8387deea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\30aa8e8a2980909b8aa2f4f5c026e27a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\30aa8e8a2980909b8aa2f4f5c026e27a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4ce37f4315b92061a8744a206caf7566\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\4ce37f4315b92061a8744a206caf7566\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\2428ae941cd8a6bce58118b97cd95aa7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\2428ae941cd8a6bce58118b97cd95aa7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\100c1e849a04f734bc8c66cfe3295180\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\100c1e849a04f734bc8c66cfe3295180\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b5a11b16b4305cd2b0555a4e0b22448b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b5a11b16b4305cd2b0555a4e0b22448b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\36bf2e8aaffb357a1d006e9c51a117b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\36bf2e8aaffb357a1d006e9c51a117b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5f0ae5eb2ce4289641cf1c899b9e0e82\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5f0ae5eb2ce4289641cf1c899b9e0e82\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\770005017a782fda915ee551adea6fad\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\770005017a782fda915ee551adea6fad\AndroidManifest.xml:20:5-44
+INJECTED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml
+INJECTED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml
+		INJECTED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml
+		ADDED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml
+		INJECTED from D:\final year project\Textchat\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\d27467ab39bfebf81619951b66c31d50\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\d27467ab39bfebf81619951b66c31d50\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\d27467ab39bfebf81619951b66c31d50\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\d27467ab39bfebf81619951b66c31d50\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\d27467ab39bfebf81619951b66c31d50\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\d27467ab39bfebf81619951b66c31d50\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\d27467ab39bfebf81619951b66c31d50\AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\d27467ab39bfebf81619951b66c31d50\AndroidManifest.xml:31:9-35:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\4da3097101b6b65d6d1d121fea5eb6fc\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\4da3097101b6b65d6d1d121fea5eb6fc\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\d27467ab39bfebf81619951b66c31d50\AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\d27467ab39bfebf81619951b66c31d50\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\d27467ab39bfebf81619951b66c31d50\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.1.aar\d27467ab39bfebf81619951b66c31d50\AndroidManifest.xml:33:17-109
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.1.aar\7e71f1434a281e08c8d72b3cb471f56d\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.1.aar\7e71f1434a281e08c8d72b3cb471f56d\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-messaging-17.3.1.aar\7e71f1434a281e08c8d72b3cb471f56d\AndroidManifest.xml:29:13-82
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\4da3097101b6b65d6d1d121fea5eb6fc\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\6f92ee0466de6680734a168d74c1f62c\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\6f92ee0466de6680734a168d74c1f62c\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-16.0.1.aar\d2b9656fe5f1befb5a6adf7efa829ca3\AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-storage-common:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-16.0.1.aar\d2b9656fe5f1befb5a6adf7efa829ca3\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\4da3097101b6b65d6d1d121fea5eb6fc\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\4da3097101b6b65d6d1d121fea5eb6fc\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\6f92ee0466de6680734a168d74c1f62c\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\6f92ee0466de6680734a168d74c1f62c\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\4da3097101b6b65d6d1d121fea5eb6fc\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\4da3097101b6b65d6d1d121fea5eb6fc\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\4da3097101b6b65d6d1d121fea5eb6fc\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\4da3097101b6b65d6d1d121fea5eb6fc\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\6f92ee0466de6680734a168d74c1f62c\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\6f92ee0466de6680734a168d74c1f62c\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\6f92ee0466de6680734a168d74c1f62c\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\6f92ee0466de6680734a168d74c1f62c\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\de637ec91fc78713238d386233bf0595\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-iid-17.0.1.aar\148726676fb3cc38a2c72f344d1463f6\AndroidManifest.xml:51:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\37a2592bd334d0a16bbe4bdd6b297ec1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\37a2592bd334d0a16bbe4bdd6b297ec1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\37a2592bd334d0a16bbe4bdd6b297ec1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\37a2592bd334d0a16bbe4bdd6b297ec1\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\06bffa6ffb9d66180c4c7b6b121ebd1e\AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\06bffa6ffb9d66180c4c7b6b121ebd1e\AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\06bffa6ffb9d66180c4c7b6b121ebd1e\AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\06bffa6ffb9d66180c4c7b6b121ebd1e\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.1.aar\06bffa6ffb9d66180c4c7b6b121ebd1e\AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\cc70b370db32acae6d200ab35382aa2e\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\cc70b370db32acae6d200ab35382aa2e\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Yogen\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\cc70b370db32acae6d200ab35382aa2e\AndroidManifest.xml:24:13-58

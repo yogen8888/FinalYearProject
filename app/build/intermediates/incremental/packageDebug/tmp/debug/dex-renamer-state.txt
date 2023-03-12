@@ -1,0 +1,4 @@
+#Wed Nov 30 21:52:54 IST 2022
+base.0=D\:\\final year project\\Textchat\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+renamed.0=classes.dex
+path.0=classes.dex

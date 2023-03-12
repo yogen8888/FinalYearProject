@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Nov 30 21:52:54 IST 2022
+0.base=D\:\\final year project\\Textchat\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+count=1
+0.baseType=DIRECTORY
+0.set=DEX
